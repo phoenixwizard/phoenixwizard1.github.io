@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://phoenixwizard.github.io/aram/sitemap.xml 
