@@ -10,7 +10,7 @@ title:            Aram Bhusal
 tagline:          'code, rails, ruby, python, NLP, stories, poetry, fiction'
 url:              http://aram.io
 paginate:         1
-baseurl:          ""
+baseurl:          /
 
 author:
   name:           Aram
