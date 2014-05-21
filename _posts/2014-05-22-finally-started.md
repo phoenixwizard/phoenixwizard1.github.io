@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Finally Started
 comments: true
 permalink: finally-started
