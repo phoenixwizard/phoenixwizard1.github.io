@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Me acting I know guitar](https://www.facebook.com/photo.php?fbid=10152036816973986&set=a.10150101419688986.303098.737988985&type=1&theater)
+![Me acting I know guitar](http://www.gravatar.com/avatar/548d51c49e6b3605e987b396018b85d1.jpg?s=512&r=g)
 
 My name is Aram. I love creating stuff. Whether it be products, code or music !!
 
