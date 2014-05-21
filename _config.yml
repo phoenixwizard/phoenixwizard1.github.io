@@ -10,6 +10,7 @@ title:            Aram Bhusal
 tagline:          The personal website of Aram Bhusal
 url:              http://aram.io
 paginate:         1
+shorturl:         aram.io
 baseurl:          /
 author:
   name:           Aram
