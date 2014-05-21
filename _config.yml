@@ -6,17 +6,18 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Aram Bhusal
+tagline:          The personal website of Aram Bhusal
+url:              http://aram.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Aram
+  url:            https://twitter.com/phoenixwizard
 
 # Custom vars
 version:          1.0.0
 github:
   repo:           https://github.com/poole/poole
+
+pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
