@@ -7,7 +7,7 @@ permalink: curse-of-perfection
 
 ![The perfect Image]({{ site.baseurl }}public/img/camera.jpg)
 
-I have always been a victim of the curse of perfection. Always seemed to believe that there is one perfect way to do things and always thrived to gain the same. Strangely this invariably led me to failure in the task or inefficiency and increased *~~failing~~* learning curve.
+I have always been a victim of *the curse of perfection*. Always seemed to believe that there is one perfect way to do things and always thrived to gain the same. Strangely this invariably led me to failure in the task or inefficiency and increased *~~failing~~* learning curve.
 
 The story begins with an avergae school going boy who was learning a language (*Hindi*), which has some phonetic sounds for
 
