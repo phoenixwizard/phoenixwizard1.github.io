@@ -25,6 +25,7 @@ github:
 
 pages_list:
   About: '/about/'
+  Portfolio: '/portfolio/'
   Archive: '/archive/'
   Feed: '/atom.xml'
 
