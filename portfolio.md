@@ -3,10 +3,12 @@ layout: page
 title: Portfolio
 ---
 
-<img src="https://dl.dropboxusercontent.com/u/56592400/profilepic.jpg" alt="Drawing" style="width: 200px;border-radius:50%"/>
+<img src="https://dl.dropboxusercontent.com/u/56592400/profilepic.jpg" alt="Drawing" style="width: 200px;border-radius:50%;margin:0 auto;"/>
 
 ARAM BHUSAL
+
 aram.bhusal@gmail.com
+
 +91-9739270425
 
 ###SUMMARY
