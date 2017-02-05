@@ -3,21 +3,20 @@ layout: page
 title: Portfolio
 ---
 
-![Me acting I know guitar](http://www.gravatar.com/avatar/548d51c49e6b3605e987b396018b85d1.jpg?s=512&r=g)
+<img src="https://dl.dropboxusercontent.com/u/56592400/profilepic.jpg" alt="Drawing" style="width: 200px;border-radius:50%"/>
 
 ARAM BHUSAL
 aram.bhusal@gmail.com
 +91-9739270425
 
-SUMMARY
-====================
-Full Stack, self motivated and ever learning technology expert. I work perfectly with both remote
-and on premise teams. I have experience leading teams and working with clients who are based
-out of different parts of the world. Comfortable with backend and front-end development, also fluent
-with Linux systems for various deployments & infrastructure purposes, including AWS, Google Cloud etc.
+###SUMMARY
 
-WORK EXPERIENCE
-=====================
+Full Stack, self motivated and ever learning technology expert. 
+Work perfectly with both remote and on premise teams. 
+Experience leading teams and working with clients who are based out of different parts of the world. 
+Comfortable with backend and front-end development, also fluent with Linux systems for various deployments & infrastructure purposes, including AWS, Google Cloud etc.
+
+###WORK EXPERIENCE
 
 Independent Consultant
 (January 2017 - Present)
