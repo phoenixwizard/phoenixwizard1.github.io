@@ -3,7 +3,7 @@ layout: custompage
 title: Portfolio
 ---
 
-<img src="https://dl.dropboxusercontent.com/u/56592400/profilepic.jpg" alt="Drawing" style="width: 200px;border-radius:50%;margin:0 auto;"/>
+<img src="https://www.gravatar.com/avatar/548d51c49e6b3605e987b396018b85d1?s=500" alt="Drawing" style="width: 200px;border-radius:50%;margin:0 auto;"/>
 
 
 [PDF Version](https://dl.dropboxusercontent.com/u/56592400/Aram-Bhusal.pdf)
