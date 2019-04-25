@@ -16,8 +16,16 @@ Comfortable with backend and front-end development, also fluent with Linux syste
 
 ###WORK EXPERIENCE
 
+####Principal Engineer, Zoomcar
+(2018 - Now)
+
+- Leading the ZAP team in Zoomcar.<br>
+*<sup>Ruby on Rails*</sup>
+
+****
+
 ####Independent Consultant
-(January 2017 - Present)
+(January 2017 - 2018)
 
 - Consulting for the development of a not yet released and not yet made public product
 of a Fortune 500 company.<br>
