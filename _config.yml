@@ -1,8 +1,8 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:         rouge
-redcarpet:
-  extensions: 	["strikethrough"]
+# redcarpet:
+#   extensions: 	["strikethrough"]
 
 # Permalinks
 permalink:        pretty
@@ -11,7 +11,7 @@ permalink:        pretty
 title:            Aram Bhusal
 tagline:          'code, rails, ruby, python, NLP, stories, poetry, fiction'
 url:              http://aram.io
-paginate:         1
+paginate:         0
 baseurl:          /
 
 author:
@@ -24,10 +24,7 @@ github:
   repo:           github.com/phoenixwizard/aram
 
 pages_list:
-  About: '/about/'
   Portfolio: '/portfolio/'
-  Archive: '/archive/'
-  Feed: '/atom.xml'
 
 gems:
   - jekyll-redirect-from

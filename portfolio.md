@@ -7,38 +7,38 @@ title: Portfolio
 
 
 [PDF Version](https://dl.dropboxusercontent.com/u/56592400/Aram-Bhusal.pdf)
-###SUMMARY
+### SUMMARY
 
 Full Stack, self motivated and ever learning technology expert.
 Work perfectly with both remote and on premise teams.
 Experience leading teams and working with clients who are based out of different parts of the world.
 Comfortable with backend and front-end development, also fluent with Linux systems for various deployments & infrastructure purposes, including AWS, Google Cloud etc.
 
-###WORK EXPERIENCE
+### WORK EXPERIENCE
 
-####Principal Engineer, Zoomcar
+#### Principal Engineer, Zoomcar
 (2018 - Now)
 
 - Leading the ZAP team in Zoomcar.<br>
-*<sup>Ruby on Rails*</sup>
+<em> <sup>Ruby on Rails</sup> </em>
 
 ****
 
-####Independent Consultant
+#### Independent Consultant
 (January 2017 - 2018)
 
 - Consulting for the development of a not yet released and not yet made public product
 of a Fortune 500 company.<br>
-*<sup>Javascript, HTML, CSS, Angular*</sup>
+<em> <sup>Javascript, HTML, CSS, Angular</sup> </em>
 
 - Helping a stealth mode startup to come up with the first version of mobile app, while also developing the backend.<br>
-*<sup>React Native, Python (Django)</sup>*
+<em> <sup>React Native, Python (Django)</sup></em>
 
 ****
 
-####Head of Technology
+#### Head of Technology
 PoshVine (June 2015 - January 2017)<br>
-*<sup>(Ruby on Rails, Postgres, Flask, HTML/CSS/Javascript, Server Management)</sup>*
+<em> <sup>(Ruby on Rails, Postgres, Flask, HTML/CSS/Javascript, Server Management)</sup></em>
 
 - Loyality Platform
 - Built a one-click multi-tenant loyality platform to launch dining programs within minutes.
@@ -49,9 +49,9 @@ PoshVine (June 2015 - January 2017)<br>
 
 ****
 
-####Head of Technology
+#### Head of Technology
 Cloudaria (March 2014 - June 2015) <br>
-*<sup>(Rails / Python / Postgresql)</sup>*
+<em> <sup>(Rails / Python / Postgresql)</sup></em>
 
 - Built content marketing platform from scratch, accmpalishing content aggregation, curation, personalisation & publishing, along with all relevant analytics.
 - We had Fortune 500 companies as beta customer, while we were working directly with the CMO and her team to help with their content startegy.
@@ -61,9 +61,9 @@ Cloudaria (March 2014 - June 2015) <br>
 
 ****
 
-####Hacker In Chief + Technology Consultant
+#### Hacker In Chief + Technology Consultant
 88 Cordials + Independent (June 2012 - March 2014)<br>
-*<sup>(Rails / Python / PHP / Postgresql)</sup>*
+<em> <sup>(Rails / Python / PHP / Postgresql)</sup></em>
 
 - Consulted for both on premise and remote teams.
 - Helped clients with building v1 of products, or taking the product to next level.
@@ -106,9 +106,9 @@ Create a complete E-Commerce solution from scratch up.
 
 ****
 
-####Senior Software Developer
+#### Senior Software Developer
 Kuliza Technologies  (January 2011 - June 2012)<br>
-*<sup>(Rails / Blackberry / Java / Android)</sup>*
+<em> <sup>(Rails / Blackberry / Java / Android)</sup></em>
 
 - Was part of the core team building an app for ephimeral messaging.
 - Built the Blackberry app and the Backend in Spring Framework
@@ -117,7 +117,7 @@ Kuliza Technologies  (January 2011 - June 2012)<br>
 
 ****
 
-###SKILLS
+### SKILLS
 
 - Ruby On Rails (6 years)
 - Full Stack Developer (5 years)
@@ -130,17 +130,17 @@ Kuliza Technologies  (January 2011 - June 2012)<br>
 
 
 
-###PUBLICATIONS
+### PUBLICATIONS
 
-####Language independent Lexicon Building Tool
+#### Language independent Lexicon Building Tool
 [Download](http://www.cfilt.iitb.ac.in/wordnet/webhwn/IndoWordnetPapers/09_iwn_Language%20independent %20Lexicon%20building%20tool.doc)
 <br>
-*<sup>December 2010</sup>*<br>
+<em> <sup>December 2010</sup><br></em>
 In this paper, we propose a system for aligning the bilingual corpora to create the dictionary for English to Indian languages and vice versa which can be used in different Natural Language Processing applications.
 
 
 
-####LINKS
+#### LINKS
 [GitHub](http://github.com/phoenixwizard) <br>
 [Linkedin](https://in.linkedin.com/in/arambhusal) <br>
 [Twitter](https://twitter.com/phoenixwizard) <br>
