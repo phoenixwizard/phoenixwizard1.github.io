@@ -17,22 +17,27 @@ Comfortable with backend and front-end development, also fluent with Linux syste
 ### WORK EXPERIENCE
 
 #### Principal Engineer, Zoomcar
-(2018 - Now)
+(September 2018 - Now)
+<em> <sup>Ruby, AWS</sup> </em>
 
-- Leading the ZAP team in Zoomcar.<br>
-<em> <sup>Ruby on Rails</sup> </em>
+ - Lead the technology for the ZAP team (10 member development team) in Zoomcar.
+ - Also ship code as an individual contributor to the team along with my role as a lead.
+ - Helped introduce Sprint Planning and Retrospective and make it a standard in the team.
+ - Head effort to break and offshoot ZAP as microservice in Zoomcar ecosystem.
+ - Head effort to introduce a versatile payout service for ZAP ecosystem which could be tweaked with minimum effort to respond to any business need changes.
+ - Mentored team members and helped team members grow over time.
 
 ****
 
 #### Independent Consultant
-(January 2017 - 2018)
+(January 2017 - September 2018)
+<em> <sup>Javascript, HTML, CSS, Angular, Ruby, Python</sup> </em>
 
-- Consulting for the development of a not yet released and not yet made public product
-of a Fortune 500 company.<br>
-<em> <sup>Javascript, HTML, CSS, Angular</sup> </em>
+- Consulted for Adobe partner for projects involving Fortune 100 company and ship quality code.
+- Help set up a development centre in Bangalore while heading the frontend and full stack team.
+- Conduct regular training for organisations to help scale up developers.
+- Worked with some of the largest and well known media houses help ship world class products, leading the full development effort.
 
-- Helping a stealth mode startup to come up with the first version of mobile app, while also developing the backend.<br>
-<em> <sup>React Native, Python (Django)</sup></em>
 
 ****
 
@@ -51,7 +56,7 @@ PoshVine (June 2015 - January 2017)<br>
 
 #### Head of Technology
 Cloudaria (March 2014 - June 2015) <br>
-<em> <sup>(Rails / Python / Postgresql)</sup></em>
+<em> <sup>(Ruby / Python / Postgresql)</sup></em>
 
 - Built content marketing platform from scratch, accmpalishing content aggregation, curation, personalisation & publishing, along with all relevant analytics.
 - We had Fortune 500 companies as beta customer, while we were working directly with the CMO and her team to help with their content startegy.
@@ -81,7 +86,6 @@ Made a robust searchable catalog of all MOOC courses, along with features like r
 which is seen today as the main feature.
 
   * __BodyOM - Nut subscription startup__
-(PHP / Laravel / MySQL / Wordpress / HTML / CSS / JS)
 Built the complete ecommerce module. Built a custom wordpress theme and multiple plugins to empower the product.
 
   * __Android application for Education Institute__
@@ -119,13 +123,12 @@ Kuliza Technologies  (January 2011 - June 2012)<br>
 
 ### SKILLS
 
-- Ruby On Rails (6 years)
-- Full Stack Developer (5 years)
+- Ruby On Rails (8+ years)
+- Full Stack Developer (7+ years)
 - Python (2 years)
-- Php (5 years)
+- Php (5+ years)
 - Android Development (2 years)
-- Html (5 years)
-- Javascript (5 years)
+- Html & CSS & Javascript (5 years)
 
 
 
