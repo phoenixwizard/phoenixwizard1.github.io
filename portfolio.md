@@ -136,7 +136,7 @@ Kuliza Technologies  (January 2011 - June 2012)<br>
 ### PUBLICATIONS
 
 #### Language independent Lexicon Building Tool
-[Download](http://www.cfilt.iitb.ac.in/wordnet/webhwn/IndoWordnetPapers/09_iwn_Language%20independent %20Lexicon%20building%20tool.doc)
+[Download](http://www.cfilt.iitb.ac.in/wordnet/webhwn/IndoWordnetPapers/09_iwn_Language%20independent%20Lexicon%20building%20tool.doc)
 <br>
 <em> <sup>December 2010</sup><br></em>
 In this paper, we propose a system for aligning the bilingual corpora to create the dictionary for English to Indian languages and vice versa which can be used in different Natural Language Processing applications.
