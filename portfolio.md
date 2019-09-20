@@ -17,7 +17,7 @@ Comfortable with backend and front-end development, also fluent with Linux syste
 ### WORK EXPERIENCE
 
 #### Principal Engineer, Zoomcar
-(September 2018 - Now)
+(September 2018 - Now) <br>
 <em> <sup>Ruby, AWS</sup> </em>
 
  - Lead the technology for the ZAP team (10 member development team) in Zoomcar.
@@ -30,7 +30,7 @@ Comfortable with backend and front-end development, also fluent with Linux syste
 ****
 
 #### Independent Consultant
-(January 2017 - September 2018)
+(January 2017 - September 2018) <br>
 <em> <sup>Javascript, HTML, CSS, Angular, Ruby, Python</sup> </em>
 
 - Consulted for Adobe partner for projects involving Fortune 100 company and ship quality code.
