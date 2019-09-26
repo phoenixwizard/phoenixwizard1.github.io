@@ -45,7 +45,6 @@ Comfortable with backend and front-end development, also fluent with Linux syste
 PoshVine (June 2015 - January 2017)<br>
 <em> <sup>(Ruby on Rails, Postgres, Flask, HTML/CSS/Javascript, Server Management)</sup></em>
 
-- Loyality Platform
 - Built a one-click multi-tenant loyality platform to launch dining programs within minutes.
 - Developed an analytical suite for brands to monitor health of programs.
 - Enabled brands to create segments and push messages using relevant channels (SMS/ Email/ Notififcations)
@@ -58,7 +57,7 @@ PoshVine (June 2015 - January 2017)<br>
 Cloudaria (March 2014 - June 2015) <br>
 <em> <sup>(Ruby / Python / Postgresql)</sup></em>
 
-- Built content marketing platform from scratch, accmpalishing content aggregation, curation, personalisation & publishing, along with all relevant analytics.
+- Built content marketing platform from scratch, accompalishing content aggregation, curation, personalisation & publishing, along with all relevant analytics.
 - We had Fortune 500 companies as beta customer, while we were working directly with the CMO and her team to help with their content startegy.
 - Built a scheduler for users to schedule their posts.
 - Created a complete flow for user content generation and permission handling.
@@ -130,7 +129,8 @@ Kuliza Technologies  (January 2011 - June 2012)<br>
 - Android Development (2 years)
 - Html & CSS & Javascript (5 years)
 
-
+### TALKS
+[RubyConf 2018 -  Talk by Aram Bhusal on "Multi-tenant applications and challenges I faced"](https://www.youtube.com/watch?v=cadhbLZ5HRQ) <br>
 
 
 ### PUBLICATIONS
