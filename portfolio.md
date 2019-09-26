@@ -6,13 +6,12 @@ title: Portfolio
 <img src="https://www.gravatar.com/avatar/548d51c49e6b3605e987b396018b85d1?s=500" alt="Drawing" style="width: 200px;border-radius:50%;margin:0 auto;"/>
 
 
-[PDF Version](https://dl.dropboxusercontent.com/u/56592400/Aram-Bhusal.pdf)
 ### SUMMARY
 
 Full Stack, self motivated and ever learning technology expert.
 Work perfectly with both remote and on premise teams.
-Experience leading teams and working with clients who are based out of different parts of the world.
-Comfortable with backend and front-end development, also fluent with Linux systems for various deployments & infrastructure purposes, including AWS, Google Cloud etc.
+Experience leading teams and working with teams who are based out of different parts of the world.
+Comfortable with backend and front-end development, also fluent with Linux systems for various deployments & infrastructure purposes.
 
 ### WORK EXPERIENCE
 
@@ -23,7 +22,7 @@ Comfortable with backend and front-end development, also fluent with Linux syste
  - Lead the technology for the ZAP team (10 member development team) in Zoomcar.
  - Also ship code as an individual contributor to the team along with my role as a lead.
  - Helped introduce Sprint Planning and Retrospective and make it a standard in the team.
- - Head effort to break and offshoot ZAP as microservice in Zoomcar ecosystem.
+ - Head effort to break and offshoot ZAP as Microservice in Zoomcar ecosystem.
  - Head effort to introduce a versatile payout service for ZAP ecosystem which could be tweaked with minimum effort to respond to any business need changes.
  - Mentored team members and helped team members grow over time.
 
