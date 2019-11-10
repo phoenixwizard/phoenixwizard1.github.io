@@ -15,8 +15,18 @@ Comfortable with backend and front-end development, also fluent with Linux syste
 
 ### WORK EXPERIENCE
 
+#### Associate Director of Engineering, Zoomcar
+(October 2019 - Now) <br>
+<em> <sup>Ruby, AWS</sup> </em>
+
+ - Lead the technology for the ZAP team (10 member development team) in Zoomcar.
+ - Also ship code as an individual contributor to the team along with my role as a lead.
+ - Part of the core team handling B2B efforts in Zoomcar.
+
+****
+
 #### Principal Engineer, Zoomcar
-(September 2018 - Now) <br>
+(September 2018 - October 2019) <br>
 <em> <sup>Ruby, AWS</sup> </em>
 
  - Lead the technology for the ZAP team (10 member development team) in Zoomcar.
@@ -146,4 +156,5 @@ In this paper, we propose a system for aligning the bilingual corpora to create 
 [GitHub](http://github.com/phoenixwizard) <br>
 [Linkedin](https://in.linkedin.com/in/arambhusal) <br>
 [Twitter](https://twitter.com/phoenixwizard) <br>
+<a rel="me" href="https://mastodon.social/@phoenixwizard">Mastodon</a> <br>
 
