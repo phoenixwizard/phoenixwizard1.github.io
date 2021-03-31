@@ -109,7 +109,7 @@ Create a complete E-Commerce solution from scratch up.
 
 ****
 
-#### Senior Software Developer
+#### Software Development Intern / Software Engineer / Senior Software Engineer
 Kuliza Technologies  (January 2011 - June 2012)<br>
 <em> <sup>(Rails / Blackberry / Java / Android)</sup></em>
 
