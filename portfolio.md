@@ -19,9 +19,10 @@ Comfortable with backend and front-end development, also fluent with Linux syste
 (October 2019 - Now) <br>
 <em> <sup>Ruby, AWS</sup> </em>
 
- - Lead the technology for the ZAP team (10 member development team) in Zoomcar.
- - Also ship code as an individual contributor to the team along with my role as a lead.
- - Part of the core team handling B2B efforts in Zoomcar.
+ - Lead the technology for all consumer facing technologies in Zoomcar.
+ - Helping in building and mentoring team leads for the next generation of leaders.
+ - Also ship code as an individual contributor to the team.
+ - Part of the core team handling B2B efforts in Zoomcar and Zoomcar Mobility Solutions.
 
 ****
 
