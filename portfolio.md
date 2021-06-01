@@ -132,15 +132,16 @@ Kuliza Technologies  (January 2011 - June 2012)<br>
 
 ### SKILLS
 
-- Ruby On Rails (8+ years)
-- Full Stack Developer (7+ years)
+- Ruby On Rails (10+ years)
+- Full Stack Developer (8+ years)
 - Python (2 years)
-- Php (5+ years)
+- Php (5 years)
 - Android Development (2 years)
-- Html & CSS & Javascript (5 years)
+- Html & CSS & Javascript (8+ years)
 
 ### TALKS
 [RubyConf 2018 -  Talk by Aram Bhusal on "Multi-tenant applications and challenges I faced"](https://www.youtube.com/watch?v=cadhbLZ5HRQ) <br>
+[JSFOO 2019 -  Talk by Aram Bhusal on "Redis Anti-Patterns"](https://youtu.be/V532pU-7zW8) <br>
 
 
 ### PUBLICATIONS
@@ -157,5 +158,4 @@ In this paper, we propose a system for aligning the bilingual corpora to create 
 [GitHub](http://github.com/phoenixwizard) <br>
 [Linkedin](https://in.linkedin.com/in/arambhusal) <br>
 [Twitter](https://twitter.com/phoenixwizard) <br>
-<a rel="me" href="https://mastodon.social/@phoenixwizard">Mastodon</a> <br>
 
