@@ -11,7 +11,6 @@ permalink:        pretty
 title:            Aram Bhusal
 tagline:          'code, rails, ruby, python, NLP, stories, poetry, fiction'
 url:              http://aram.io
-paginate:         0
 baseurl:          ""
 
 author:
