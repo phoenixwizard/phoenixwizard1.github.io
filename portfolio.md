@@ -15,14 +15,39 @@ Comfortable with backend and front-end development, also fluent with Linux syste
 
 ### WORK EXPERIENCE
 
+#### Senior Engineering Manager, Colearn
+(April 2022 - Now) <br>
+<em> <sup>Ruby, AWS, Postgres</sup> </em>
+
+ - Led the Live Classes and Monetisation Verticals of Colearn.
+ - Building new-age platforms for students to have the best online class experience.
+ - Led a major re-write using DDD leading to better architected and stable system.
+ - Owner of backend hiring of the organisation
+ - Owner of on-call process if the organisation
+
+****
+
+#### Engineering Manager, Colearn
+(July 2021 - April 2022) <br>
+<em> <sup>Ruby, AWS, Postgres</sup> </em>
+
+ - Led the Live Classes Vertical of Colearn.
+ - Led the Tanya (Doubt Solving Service) of Colearn
+ - Managed the Engineering teams ensuring the video platforms gave the best learning experience to students.
+ - Responsible for delivery of projects and growth of the team
+ - Owner of backend hiring of Colearn
+
+****
+
 #### Associate Director of Engineering, Zoomcar
-(October 2019 - Now) <br>
-<em> <sup>Ruby, AWS</sup> </em>
+(October 2019 - July 2021) <br>
+<em> <sup>Ruby, AWS, Postgres</sup> </em>
 
  - Lead the technology for all consumer facing technologies in Zoomcar.
  - Helping in building and mentoring team leads for the next generation of leaders.
  - Also ship code as an individual contributor to the team.
  - Part of the core team handling B2B efforts in Zoomcar and Zoomcar Mobility Solutions.
+ - Led the tech team which led zoomcar to international markets
 
 ****
 
