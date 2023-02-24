@@ -8,7 +8,7 @@ title: Portfolio
 
 ### SUMMARY
 
-Full Stack, self motivated and ever learning technology expert.
+Technology Leader having experience writing first line of code in early stage startup to scaling teams in Series D startup.
 Work perfectly with both remote and on premise teams.
 Experience leading teams and working with teams who are based out of different parts of the world.
 Comfortable with backend and front-end development, also fluent with Linux systems for various deployments & infrastructure purposes.
